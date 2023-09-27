@@ -1,0 +1,256 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.nav1{
+    display: flex;
+    
+    justify-content:space-between;
+    /* padding-right: 70px; */
+}
+#background{
+    height: 300px;
+    width: 100vw;
+}  
+.header2{
+    position:absolute;
+    top: 10px;
+}
+#header1{
+    position: absolute;
+    color: white;
+    left: 20px;
+    font-size: 30px;
+}
+button{
+    background-color: rgb(7, 118, 161);
+    border: none;
+    margin-left: 25px;
+}
+.image1{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-items: center;
+    color: white;
+    height: 25px;
+    width: 50px;
+    border-radius: 5px 5px 5px 5px;
+}
+#image1{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 10px;
+}
+.img1{
+    height: 190px;
+    width: 120px;
+}
+#image2{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 10px;
+}
+.img2{
+    height: 190px;
+    width: 120px;
+}
+#image3{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 10px;
+}
+.img3{
+    height: 190px;
+    width: 120px;
+}
+#image4{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 10px;
+}
+.img4{
+    height: 190px;
+    width: 120px;
+}
+#image5{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 10px;
+}
+.img5{
+    height: 190px;
+    width: 120px;
+}
+#image6{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 10px;
+}
+.img6{
+    height: 190px;
+    width: 120px;
+}
+#all1{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:space-evenly;
+}
+#title{
+    height: 20px;
+    width: 100px;
+    position:absolute;
+    left: 30px;
+    margin-left: 30px;
+    margin-top: 10px;
+}
+
+#grey1{
+    color: rgba(167, 165, 165, 0.74);
+}
+#all2{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:space-around;
+}
+
+#image7{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 10px;
+    justify-content: space-between;
+}
+.img7{
+    height: 180px;
+    width: 180px;
+}
+#image8{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 10px;
+    justify-content: space-between;
+}
+.img8{
+    height: 180px;
+    width: 180px;
+}
+#image9{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 10px;
+    justify-content: space-between;
+}
+.img9{
+    height: 180px;
+    width: 180px;
+}
+#image10{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 10px;
+    justify-content: space-between;
+}
+.img10{
+    height: 180px;
+    width: 180px;
+}
+
+#image11{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 10px;
+    justify-content: space-between;
+}
+.img11{
+    height: 180px;
+    width: 180px;
+}
+#image12{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 10px;
+    justify-content: space-between;
+}
+.img12{
+    height: 180px;
+    width: 180px;
+}
+#image13{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 10px;
+    justify-content: space-between;
+}
+.img13{
+    height: 180px;
+    width: 180px;
+}
+#image14{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 10px;
+    justify-content: space-between;
+}
+.img14{
+    height: 180px;
+    width: 180px;
+}
+#all3{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:space-around;
+}
+#cart1{
+    height: 15px;
+    width: 15px;
+}
+.white-cart{
+    height: 15px;
+    width: 15px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly; 
+}
+.footer1{
+    display: flex;
+    justify-content:space-between;
+    background-color: black;
+    width: 100%;
+}
+#krishti{
+    color: white;
+    display: flex;
+    flex-wrap: wrap;
+}
+footer{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:space-between;
+
+}
+footer div img{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+}
+footer p{
+    color: white;
+    text-align: end;
+}
+.header1{
+    margin-left: 90px;
+}
+#cart2{
+    height: 30px;
+}
+@media(max-width:768px){
+    #header1{
+        font-size: 15px;
+        left:10px
+    }
+
+}
+
+
+
